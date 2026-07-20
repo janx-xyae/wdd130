@@ -12,6 +12,8 @@ body{
 header, main, footer {
     width: 840px;
     margin: 0 auto;
+    text-align: left;
+    font-size: 1.2rem;
 }
 
 h1, h2 {
